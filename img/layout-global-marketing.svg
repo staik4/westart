@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="139 2349 1490 218">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 163px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        opacity: 0.02;
+      }
+
+      .cls-2 {
+        font-family: SegoeUI-Bold, Bebas Neue;
+      }
+    </style>
+  </defs>
+  <text id="WeStart_Consulting_" data-name="WeStart Consulting
+" class="cls-1" transform="translate(139 2525)"><tspan x="0" y="0">WeStart Consulting</tspan><tspan class="cls-2"><tspan x="0" y="1"></tspan></tspan></text>
+</svg>

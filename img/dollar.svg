@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3578.5 1586.7 130.4 130.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc30f;
+      }
+
+      .cls-2 {
+        fill: #1a2a40;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="dollar" transform="translate(2669 -1)">
+    <circle id="dollar-2" data-name="dollar" class="cls-1" cx="65.2" cy="65.2" r="65.2" transform="translate(909.5 1587.7)"/>
+    <circle id="Ellipse_1075" data-name="Ellipse 1075" class="cls-2" cx="52.3" cy="52.3" r="52.3" transform="translate(922.4 1600.6)"/>
+    <g id="Group_326" data-name="Group 326" transform="translate(780 1459)">
+      <path id="Path_4690" data-name="Path 4690" class="cls-3" d="M197.2,217.8v6.4h-4.5v-6.3c-7.8-.6-13.6-4.5-16-10.8l5.7-3.3c1.6,4.3,5,7,10.3,7.5V194c-7.1-2.6-13.6-5.5-13.6-14.4,0-8,6.2-13,13.6-13.7v-6.3h4.5V166a15.8,15.8,0,0,1,12.9,9.6l-5.6,3.2a9.2,9.2,0,0,0-7.3-6.2V189c7,2.6,13.9,5.5,13.9,14.6C211.2,211.6,205.3,216.9,197.2,217.8Zm-4.5-30.5V172.4c-4.2.6-7,3.2-7,7.2C185.7,183.4,188.1,185.4,192.7,187.3Zm11.8,16.4c0-4.2-2.8-6.2-7.3-8v15.6C201.9,210.5,204.5,207.6,204.5,203.7Z"/>
+    </g>
+  </g>
+</svg>

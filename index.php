@@ -92,6 +92,10 @@
 						</div>
 					</div>
 					<div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12">
+						<div class="scanner scann d-flex justify-content-center align-items-center">
+							<img class="_scann" src="img/scanner.svg" alt="" style="position: absolute; width: 80%;">
+							<img class="dollar" src="img/dollar.svg" alt="" style="width: 170px;">
+						</div>
 						<div class="world">
 
 						</div>
@@ -101,7 +105,7 @@
 		</div>
 	</section>
 
-	<section id="investments">
+	<!-- <section id="investments">
 		<div class="container">
 			<div class="row d-flex flex-wrap">
 				<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 d-flex align-items-start flex-column justify-content-center">
@@ -124,12 +128,12 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<section id="glob-mark">
 		<div id="consulting" class="container"  style="height: 100%">
 			<div class="row d-flex align-items-center" style="height: 100%">
-				<div class="titles-gls col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 d-flex flex-column align-items-around justify-content-center" style="height: 80%">
+				<div class="titles-gls col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 d-flex flex-column align-items-center justify-content-between" style="height: 80%">
 					<div data-choice="0" class="title-gl global-marketing active-gl">
 						<span>Global<br> Marketing & PR</span>
 					</div>
@@ -248,14 +252,15 @@
 					</div>
 					<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 item-team d-flex flex-column align-self-start">
 						<div class="img-member">
-							<img src="img/Stahz.svg" alt="Poli">
+							<img src="img/poli.png" alt="Poli">
 						</div>
 						<div class="desc-of-member">
-							<span class="name-members">Poli Cond<br></span>
+							<span class="name-members">Poli Kond<br></span>
 							<span class="litle-desc-members">Manager<br><br></span>
 							<span class="text-members">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam assumenda consequuntur pariatur consectetur explicabo obcaecati deleniti eaque quia, voluptas aperiam in aut aliquam, nihil sapiente maxime illum at dolorum dolore.
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Core competencies: VC, startups, stock market
+								Worked in a venture fund in Singapore
+								Experienced in financial modelling and international business development.
 							</span>
 						</div>
 					</div>
